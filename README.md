@@ -1,4 +1,6 @@
 # OpenComputers-ServerInstaller
+I obviously have not finished this repository as there are no actual files except for this readme. Please check back later.
+
 Makes Server-Client communication on the OpenComputers mode for Minecraft much easier.
 
 Note: You should already know how to program in lua and have a basic understanding of OpenComputers. If you do not, watch this great official tutorial series: https://www.youtube.com/watch?v=KwkAKx-JwPs
